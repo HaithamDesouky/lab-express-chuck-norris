@@ -1,0 +1,29 @@
+{
+  "name": "lab-chuck-norris",
+  "version": "1.0.0",
+  "description": "![Ironhack Logo](https://i.imgur.com/1QgrNNw.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chucknorris-io": "^1.0.5",
+    "ejs": "^2.5.5",
+    "express": "^4.17.1",
+    "hbs": "^4.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaithamDesouky/lab-express-chuck-norris.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/HaithamDesouky/lab-express-chuck-norris/issues"
+  },
+  "homepage": "https://github.com/HaithamDesouky/lab-express-chuck-norris#readme",
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.0"
+  }
+}

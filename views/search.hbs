@@ -1,0 +1,12 @@
+
+
+<form action="/search" method="POST">
+  <input type="text" name="term">
+  <button>button</button>
+</form>
+
+<ul>
+{{#each joke.items}}
+<li>{{this.value}}</li>
+{{/each}}
+</ul>
